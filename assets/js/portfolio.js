@@ -1,5 +1,5 @@
 async function createPictureElements() {
-    const pictureFolder = './images/';
+    const pictureFolder = '../images/';
     const pictureExtensions = ['jpg', 'jpeg', 'png', 'gif']; // Allowed picture extensions
   
     // Get all the files in the picture folder
